@@ -11,4 +11,5 @@ https://github.com/JayKim88/flutternDart-the-complete-guide-2023/assets/55373668
 
 ## Note
 
-- [Summarize Essentials](https://www.notion.so/jay-global/Section-5-Adding-Interactivity-More-Widgets-Theming-EXPENSE-TRACKER-APP-c628837679c345b6b855dc073b63605f?pvs=4)
+- [Section 5: Adding Interactivity, More Widgets & Theming [EXPENSE TRACKER APP]](https://www.notion.so/jay-global/Section-5-Adding-Interactivity-More-Widgets-Theming-EXPENSE-TRACKER-APP-c628837679c345b6b855dc073b63605f?pvs=4)
+- [Section 6: Building Responsive & Adaptive User Interfaces [EXPENSE TRACKER APP]](https://www.notion.so/jay-global/Section-6-Building-Responsive-Adaptive-User-Interfaces-EXPENSE-TRACKER-APP-0349bbe6e6574d2b94a0e3bc227717b5?pvs=4)
