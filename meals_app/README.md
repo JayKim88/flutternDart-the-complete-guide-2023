@@ -1,16 +1,7 @@
 # meals_app
 
-A new Flutter project.
+https://github.com/JayKim88/flutternDart-the-complete-guide-2023/assets/55373668/41d44a32-4b90-4914-b790-b40f5a987d18
 
-## Getting Started
+## Note
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- [Section 8: Building Multi-Screen Apps & Navigating Between Screens [MEALS APP]](https://jay-global.notion.site/Section-8-Building-Multi-Screen-Apps-Navigating-Between-Screens-MEALS-APP-816a9b81d142447fb9159c4d3bffdeea?pvs=4)
