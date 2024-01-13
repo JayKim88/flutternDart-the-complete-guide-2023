@@ -1,16 +1,7 @@
 # chat_app
 
-A new Flutter project.
+https://github.com/JayKim88/flutternDart-the-complete-guide-2023/assets/55373668/0e1d6075-f28b-43e9-8887-a330f007d9ae
 
-## Getting Started
+## Note
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- [Section 14: Push Notifications & More: Building a Chat App with Flutter & Firebase](https://jay-global.notion.site/Section-14-Push-Notifications-More-Building-a-Chat-App-with-Flutter-Firebase-c658477a91844a90833cb48ce93ccb7f?pvs=4)
